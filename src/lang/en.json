@@ -1,0 +1,27 @@
+{
+	"backToChooseProvider": "Back to choosing provider",
+	"backToChooseGame": "Back to choosing game",
+  "continue": "Continue",
+  "header": {
+    "chooseProvider": "01. Choose provider",
+    "chooseGame": "02. Choose game",
+    "customizeExperience": "03. Customize experience"
+  },
+  "providers": {
+    "supportedLanguages": "Supported languages"
+  },
+  "customize": {
+    "chooseCamera": "Choose camera viewport",
+    "chooseBackground": "Choose background",
+    "chooseFront": "Choose front",
+    "addLogotype": "Add logotype",
+    "modalTitle": "Lorem Ipsum is simply text",
+    "modalText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "backToConstructor": "Back to constructor",
+    "goToCart": "Go to cart",
+    "uploadFile": "Upload",
+		"settingPositions": "Positions",
+		"managePositions": "Manage positions",
+		"yourLogotype": "Your logotype"
+  }
+}
